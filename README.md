@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 
-**This is Gnanasurya SJ**
+**This is Gnanasurya SJ** ![Smile]
 
 - 🌱 I’m currently learning MERN Stack development
 - 📫 How to reach me: 
-- ![Mail](surya9901@gmail.com)
-- ![LinkedIn](https://www.linkedin.com/in/gnanasurya-sj-93021628)
+- [📧](surya9901@gmail.com)
+- [💬](https://www.linkedin.com/in/gnanasurya-sj-93021628)
 
 
