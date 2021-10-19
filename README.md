@@ -1,8 +1,8 @@
-### Hi there 👋
+## Hi there 👋
 
 
 **This is Gnanasurya SJ** 
-![Smile]
+
 
 - 🌱 I’m currently learning MERN Stack development
 - 📫 How to reach me: 
