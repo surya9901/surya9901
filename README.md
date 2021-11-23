@@ -24,11 +24,11 @@ Languages and tools:
 <img align="left" width="40px" alt="css3" src="https://img.icons8.com/color/48/000000/css3.png" />
 <img align="left" width="40px" alt="javascript" src="https://img.icons8.com/color/48/000000/javascript--v2.png"/>
 <img align="left" width="40px" alt="react" src="https://img.icons8.com/office/16/000000/react.png" />
-<img align="left" width="40px" alt="node.js" src="https://img.icons8.com/windows/32/000000/nodejs.png" />
+<img align="left" width="60px" alt="node.js" src="https://img.icons8.com/windows/32/000000/nodejs.png" />
 <img align="left" width="40px" alt="mongodb" src="https://img.icons8.com/color/48/000000/mongodb.png" />
 
 <br />
-
+<br />
 <hr />
 
 <img src="https://github-readme-stats.vercel.app/api?username=surya9901&&show_icons=true&theme=gotham" align="left" />
