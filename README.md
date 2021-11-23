@@ -18,16 +18,16 @@ A passionate full stack web developer from india. My passion for software lies w
 
 I have learned a lot from the open-source community and i love how the collaboration and knowledge sharing happens through open-source.
 
-<hr />
-
 Languages and tools:
 
-<img align="left" width="22px" src="https://icons8.com/icon/20909/html-5" />
-<img align="left" width="22px" src="https://icons8.com/icon/21278/css3" />
-<img align="left" width="22px" src="https://icons8.com/icon/hKrJAdwqbGgG/javascript" />
-<img align="left" width="22px" src="https://icons8.com/icon/NfbyHexzVEDk/react" />
-<img align="left" width="22px" src="https://icons8.com/icon/t9oCxEN7McHZ/nodejs" />
-<img align="left" width="22px" src="https://icons8.com/icon/74402/mongodb" />
+<img src="https://img.icons8.com/color/48/000000/html-5--v1.png" />
+<img src="https://img.icons8.com/color/48/000000/css3.png" />
+<img src="https://img.icons8.com/color/48/000000/javascript--v2.png"/>
+<img src="https://img.icons8.com/office/16/000000/react.png" />
+<img src="https://img.icons8.com/windows/32/000000/nodejs.png" />
+<img src="https://img.icons8.com/color/48/000000/mongodb.png" />
+
+<br/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=surya9901&&show_icons=true&theme=gotham" align="left" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surya9901&&show_icons=true&theme=gotham" align="right" />
