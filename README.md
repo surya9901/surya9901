@@ -27,7 +27,7 @@ Languages and tools:
 <img align="left" width="30px" alt="node.js" src="https://img.icons8.com/windows/32/000000/nodejs.png" />
 <img align="left" width="30px" alt="mongodb" src="https://img.icons8.com/color/48/000000/mongodb.png" />
 
-<hr />
+<br />
 
 <img src="https://github-readme-stats.vercel.app/api?username=surya9901&&show_icons=true&theme=gotham" align="left" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surya9901&&show_icons=true&theme=gotham" align="right" />
