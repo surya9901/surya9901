@@ -10,7 +10,7 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=surya9901.surya9901)
 
-<hr />
+<br />
 
 ## Hi, I'm [Gnanasurya](https://gnanasurya.netlify.app/) 
 
@@ -18,7 +18,7 @@ A passionate Full stack developer from india. My passion for software lies with 
 
 I have learned a lot from the open-source community and i love how the collaboration and knowledge sharing happens through open-source.
 
-Languages and tools:
+## Languages and tools:
 
 <img align="left" width="40px" alt="html5" src="https://img.icons8.com/color/48/000000/html-5--v1.png" />
 <img align="left" width="40px" alt="css3" src="https://img.icons8.com/color/48/000000/css3.png" />
