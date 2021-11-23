@@ -12,7 +12,10 @@
 
 <hr />
 <br />
-Hi, I'm [Gnanasurya](https://gnanasurya.netlify.app/), a passionate full stack web developer from india. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the code quality of the things I build.
+
+### Hi, I'm [Gnanasurya](https://gnanasurya.netlify.app/) 
+
+A passionate full stack web developer from india. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the code quality of the things I build.
 
 I have learned a lot from the open-source community and i love how the collaboration and knowledge sharing happens through open-source.
 
