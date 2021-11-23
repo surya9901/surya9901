@@ -11,7 +11,6 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=surya9901.surya9901)
 
 <hr />
-<br />
 
 ### Hi, I'm [Gnanasurya](https://gnanasurya.netlify.app/) 
 
