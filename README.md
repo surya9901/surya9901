@@ -11,12 +11,10 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=surya9901.surya9901)
 
 <hr />
-
 <br />
+Hi, I'm [Gnanasurya](https://gnanasurya.netlify.app/), A passionate full stack web developer from india. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the code quality of the things I build.
 
-Hi, I'm [Gnanasurya](https://gnanasurya.netlify.app/), a passionate full stack web developer from india. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the code quality of the things I build.
-
-I learned a lot from the open-source community and I love how collaboration and knowledge sharing happens through open-source.
+I have learned a lot from the open-source community and i love how the collaboration and knowledge sharing happens through open-source.
 
 <img src="https://github-readme-stats.vercel.app/api?username=surya9901&&show_icons=true&theme=gotham" align="left" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surya9901&&show_icons=true&theme=gotham" align="right" />
