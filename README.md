@@ -1,11 +1,12 @@
-## Hi there 👋
+### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
+<a href="https://www.linkedin.com/in/abhisheknaiidu/">
+  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
 
-**This is Gnanasurya SJ** 
+![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
 
-
-- 🌱 I’m currently learning MERN Stack development
-- 📫 How to reach me:
+<br />
 - [📧 Gmail](surya9901@gmail.com)
 - [💬 LinkedIn](https://www.linkedin.com/in/gnanasurya-sj-93021628)
 
