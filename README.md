@@ -8,7 +8,7 @@
   <img align="left" alt="Surya's Mail" width="22px" src="https://img.icons8.com/color/48/000000/gmail-new.png" />
 </a>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=surya9901.surya9901&left_color=green&right_color=red)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Gnanasurya.surya9901)
 
 ## Hi, I'm [Gnanasurya](https://gnanasurya.netlify.app/) 
 
