@@ -8,8 +8,6 @@
   <img align="left" alt="Surya's Mail" width="22px" src="https://img.icons8.com/color/48/000000/gmail-new.png" />
 </a>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Gnanasurya.surya9901)
-
 [![Visits Badge](https://badges.pufler.dev/visits/surya9901/badge-it)](https://badges.pufler.dev)
 
 ## Hi, I'm [Gnanasurya](https://gnanasurya.netlify.app/) 
