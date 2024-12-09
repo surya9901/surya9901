@@ -10,6 +10,8 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Gnanasurya.surya9901)
 
+[![Visits Badge](https://badges.pufler.dev/visits/surya9901/badge-it)](https://badges.pufler.dev)
+
 ## Hi, I'm [Gnanasurya](https://gnanasurya.netlify.app/) 
 
 A passionate Full stack developer from india. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the code quality of the things I build.
