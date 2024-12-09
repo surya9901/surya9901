@@ -5,7 +5,7 @@
 </a>
 
 <a href="mailto:surya9901@gmail.com">
-  <img align="left" alt="Surya's Mail" width="22px" src="https://img.icons8.com/color/48/000000/gmail-new.png" />
+  <img align="left" alt="Surya's Mail" width="22px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg" />
 </a>
 
 ![](https://api.visitorbadge.io/api/VisitorHit?user=surya9901&repo=github-visitors-badge&countColor=%237B1E7A)
